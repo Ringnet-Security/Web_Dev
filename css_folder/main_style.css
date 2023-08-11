@@ -11,10 +11,12 @@ ul{
     list-style-type: none;
    
 }
+
 li{
     background-color: rgb(175, 91, 91);
     text-align: center;
 }
+
 p{
     margin: 0;
     text-align: center;
